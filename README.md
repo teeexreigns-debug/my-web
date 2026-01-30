@@ -39,11 +39,11 @@ width:30%;
     <div class="box" style="">
     <form style="text-align:center;">
       <label>Username</label><br>
-      <input type="name"><br>
+      <input type="name" placeholder="enter your name" ><br>
       <label>Email</label><br>
-      <input type="email"><br>
+      <input type="email" placeholder="enter your email"><br>
       <label>Password</label><br>
-      <input type="password"><br>
+      <input type="password" placeholder="enter pass word"><br>
       <label>Repeat Password</label><br>
       <input type="password"><br>
       <input type="submit" value="SIGN UP" style="background-color:blue;color:white;">
